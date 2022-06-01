@@ -176,15 +176,48 @@ def on_click_gen_phy():
         data_len_print = '16\'d' + data_len_tmp
         text.insert(INSERT, f'PARAM symbol length: {sym_len_print}\n')
         text.insert(INSERT, f'PARAM data length: {data_len_print}\n')
-    
-    if sync_clk.get() == '':
-        text.insert(INSERT, f'Warning: no Sync rate input.\n')
+    # Process Mode
+    if mode.get() == ''  or (int(mode.get()) != 0 and int(mode.get()) != 1):
+        text.insert(INSERT, f'Error: mode is not 0/1 or it is empty!\n')
+        mode_value = 0
     else:
-        sync_clk_value = round(float(sync_clk.get())/2 * 2**10)
-        sync_clk_value_print = '10\'d' + str(sync_clk_value)
-        text.insert(INSERT, f'PARAM SYNC_CLK: {sync_clk_value_print}\n')
+        mode_value = int(mode.get())
+        mode_value_print = '1\'b'+str(mode_value)
+        text.insert(INSERT, f'PARAM Mode: {mode_value_print}\n')
+    # Process modulator
+    if 1-mode_value:
+        symbol0_value = symbol0.get()[::-1]
+        symbol1_value = symbol1.get()[::-1]
+        text.insert(INSERT, 'PARAM Symbol0 is:' + symbol0_value + '\n')
+        text.insert(INSERT, 'PARAM Symbol1 is:' + symbol1_value + '\n')
+        text.insert(INSERT, 'PARAM A0-A2 are not applied in this MODE.\n')
+        text.insert(INSERT, 'PARAM B0-B2 are not applied in this MODE.\n')
+    if mode_value == 1:
+        a0_value = a0.get()
+        a1_value = a1.get()
+        a2_value = a2.get()
+        b0_value = b0.get()
+        b1_value = b1.get()
+        b2_value = b2.get()
+        text.insert(INSERT, 'PARAM SYMBOL0 and SYMBOL1 are not applied in this MODE.\n')
+        if a0_value == '' or a1_value == '' or a2_value == '' or b0_value == '' or b1_value == '' or b2_value == '':
+            text.insert(INSERT, 'Warning: please complete the filling of A0-A2 and B0-B2 parameters.\n')
+        else:
+            a0_value_print = '16\'d' + str(round(float(a0_value)*2**16))
+            a1_value_print = '16\'d' + str(int(a1_value))
+            a2_value_print = '16\'d' + str(int(a2_value))
+            b0_value_print = '16\'d' + str(round(float(b0_value)*2**16))
+            b1_value_print = '16\'d' + str(int(b1_value))
+            b2_value_print = '16\'d' + str(int(b2_value))
+            text.insert(INSERT, 'PARAM A0: ' + a0_value_print + '\n')
+            text.insert(INSERT, 'PARAM A1: ' + a1_value_print + '\n')
+            text.insert(INSERT, 'PARAM A2: ' + a2_value_print + '\n')
+            text.insert(INSERT, 'PARAM B0: ' + b0_value_print + '\n')
+            text.insert(INSERT, 'PARAM B1: ' + b1_value_print + '\n')
+            text.insert(INSERT, 'PARAM B2: ' + b2_value_print + '\n')
+    text.insert(INSERT, '-----------------------------------\n'+'PHY calculation successfully done!\n')
     
-    print(f'(Test)After click: {fs.get()}')
+    
 
     
 Button(root, text="Click to generate PHY (2)", font=("Arial",15), command=on_click_gen_phy).grid(row = 13, column = 3)
