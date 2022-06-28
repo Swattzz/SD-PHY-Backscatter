@@ -11,7 +11,8 @@ SD-PHY hardware platform is made open-source. The PCB hardware is designed using
 SD-PHY is featured by its generic baseband design. The whole baseband is realized in a low-power FPGA by GOWIN Inc. The binary file to be burnt into the FPGA can be downloaded in this project.
 ## Our academic paper
 Our academic paper of SD-PHY backscatter is published in ACM MobiSys '22. [PDF]
-To use our SD-PHY platform in your research, please cite our paper in your work. An ACM reference format should be: [to be editted].
+To use our SD-PHY platform in your research, please cite our paper in your work. An ACM reference format should be: 
+Fengyuan Zhu, Mingwei Ouyang, Luwei Feng, Yaoyu Liu, Xiaohua Tian, Meng Jin, Dongyao Chen, and Xinbing Wang. 2022. Enabling software-defined PHY for backscatter networks. In Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys '22). Association for Computing Machinery, New York, NY, USA, 330–342. https://doi.org/10.1145/3498361.3538927.
 ## Main Contributors
 * Fengyuan Zhu (jsqdzhufengyuan@sjtu.edu.cn)
 * Ouyang Mingwei (1999mrou@sjtu.edu.cn)
