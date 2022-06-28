@@ -1,0 +1,23 @@
+Added Component: Designator=J1(INMP621ACEZ-R7)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/INMP621ACEZ-R7/TDK%20InvenSense/view-part/74120/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "INMP621ACEZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-16 TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/INMP621ACEZ-R7/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/INMP621ACEZ-R7/TDK%20InvenSense/view-part/74120/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-GND@1
+Added Pin To Net: NetName=GND Pin=J1-GND@2
+Added Pin To Net: NetName=GND Pin=J1-GND@3
+Added Pin To Net: NetName=GND Pin=J1-GND@4
+Added Pin To Net: NetName=GND Pin=J1-GND@5
+Added Pin To Net: NetName=GND Pin=J1-GND@6
+Added Pin To Net: NetName=GND Pin=J1-GND@7
+Added Pin To Net: NetName=GND Pin=J1-GND@8
+Added Pin To Net: NetName=GND Pin=J1-GND@9
+Added Pin To Net: NetName=GND Pin=J1-GND@10
+Added Pin To Net: NetName=GND Pin=J1-GND@11
+Added Pin To Net: NetName=VCC_3_3 Pin=J1-VDD
+Added Member To Class: ClassName=io_bank Member=Component J1 INMP621ACEZ-R7

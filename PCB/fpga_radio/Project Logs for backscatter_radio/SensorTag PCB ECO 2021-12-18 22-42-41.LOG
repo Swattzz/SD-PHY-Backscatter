@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PIN46 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=NetC90_1 Pin=IC?-4
+Added Pin To Net: NetName=3V3 Pin=IC?-5
+Added Member To Class: ClassName=power Member=Component IC? NCS2200SN2T1G

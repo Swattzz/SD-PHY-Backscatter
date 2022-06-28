@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3 Pin=AC1-1
+Added Pin To Net: NetName=GND Pin=AC1-12
+Added Pin To Net: NetName=GND Pin=AC1-13
+Added Pin To Net: NetName=GND Pin=AC1-16
+Added Member To Class: ClassName=power Member=Component AC1 ADXL362BCCZ-RL
+Added Member To Class: ClassName=io_bank Member=Component C24 0.1¦ÌF

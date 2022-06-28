@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VCC_3_3 Pin=C31-2
+Added Room: Name=io_bank
+Added Room: Name=power

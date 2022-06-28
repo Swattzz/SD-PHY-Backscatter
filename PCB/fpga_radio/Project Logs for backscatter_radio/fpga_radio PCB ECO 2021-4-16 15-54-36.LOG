@@ -1,0 +1,30 @@
+Added Component: Designator=Battery(CR2032-SMD)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "FDK America,"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR2032/FDK%20America%2C%20Inc.%2C%20a%20member%20of%20Fujitsu%20Group/view-part/1775317/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration_Pole-Throw"; Value = "Single Pole - Single Throw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_Current_Rating"; Value = "50 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825910-2/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/278983/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1825910-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=Battery-+$1
+Added Pin To Net: NetName=GND Pin=Battery-+$2
+Added Pin To Net: NetName=GND Pin=Battery-NEG
+Added Pin To Net: NetName=GND Pin=SW-1
+Added Pin To Net: NetName=GND Pin=SW-2
+Added Pin To Net: NetName=NetC32_2 Pin=SW-3
+Added Member To Class: ClassName=io_bank Member=Component Battery CR2032
+Added Member To Class: ClassName=power Member=Component SW 1825910-2
+Added Room: Name=io_bank
+Added Room: Name=power

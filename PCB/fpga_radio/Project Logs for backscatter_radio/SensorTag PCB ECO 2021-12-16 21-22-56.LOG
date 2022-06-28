@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PIN41 Pin=IC1-1
+Added Pin To Net: NetName=PIN43 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=PIN42 Pin=IC1-4
+Added Pin To Net: NetName=3V3 Pin=IC1-5
+Added Member To Class: ClassName=io_bank Member=Component C24 0.1¦ÌF
+Added Member To Class: ClassName=io_bank Member=Component IC1 MMICT3902-00-012

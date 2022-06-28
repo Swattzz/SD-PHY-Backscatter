@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Member From Class: ClassName=io_bank Member=P3
+Added Pin To Net: NetName=GND Pin=U10-2

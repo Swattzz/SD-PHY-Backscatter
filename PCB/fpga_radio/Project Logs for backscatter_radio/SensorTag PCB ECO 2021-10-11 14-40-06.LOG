@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=R90-1
+Removed Pin From Net: NetName=NetC90_1 Pin=R90-2
+Removed Member From Class: ClassName=power Member=R91
+Change Component Designator: OldDesignator=R91 NewDesignator=R90
+Change component parameters: Designator = "C90" ("C90"); Footprint = "1608[0603]"; UniqueID = "\BGWVZPJR" ("\BGWVZPJR")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R91" ("R90"); Footprint = "1608[0603]"; UniqueID = "\EXXAFXUN" ("\EXXAFXUN")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Chip Res (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1MO"; VariantName = "[No Variations]"
+Added Component: Designator=C91(1608[0603])
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC90_1 Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C91-2
+Change Net Name : Old Net Name=NetR91_2 New Net Name=NetR90_2
+Added Member To Class: ClassName=power Member=Component C91 1nF
+Added Room: Name=io_bank
+Added Room: Name=power

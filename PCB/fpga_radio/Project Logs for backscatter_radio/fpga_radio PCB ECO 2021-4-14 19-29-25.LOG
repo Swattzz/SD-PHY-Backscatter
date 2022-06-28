@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=U10-5
+Removed Pin From Net: NetName=NetU1_4 Pin=U10-8
+Added Pin To Net: NetName=NetU1_4 Pin=U10-5
+Added Pin To Net: NetName=NetC1_2 Pin=U10-8
+Added Room: Name=io_bank
+Added Room: Name=power

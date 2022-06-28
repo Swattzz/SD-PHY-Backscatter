@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PIN38 Pin=U4-4
+Removed Pin From Net: NetName=PIN39 Pin=U4-6
+Added Pin To Net: NetName=PIN39 Pin=U4-4
+Added Pin To Net: NetName=PIN38 Pin=U4-6
+Added Member To Class: ClassName=power Member=Component U5 ASTX_H11_20MHz

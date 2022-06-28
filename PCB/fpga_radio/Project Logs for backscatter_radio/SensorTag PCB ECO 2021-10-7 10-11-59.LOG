@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C23 Old Footprint=RAD-0.3 New Footprint=0402_C
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VCC_BAT Pin=C23-2
+Added Member To Class: ClassName=io_bank Member=Component C23 Cap
+Added Room: Name=io_bank
+Added Room: Name=power

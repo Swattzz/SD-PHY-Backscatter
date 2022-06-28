@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=B1 Old Footprint=3031_KEY New Footprint=BK-912-TR_MPD
+Change Component Comment : Designator=B1 Old Comment=3031 New Comment=BK-912-TR
+Change component parameters: Designator = "B1"; Footprint = "BK-912-TR_MPD"; UniqueID = "\FZUESBDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.memoryprotectiondevices.com/datasheets/BK-912-datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BK-912-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REFDES_2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SourceLibrary"; Value = "Memory_Protection_Devices_2020-01-22"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE_2"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Memory Protection Devices, Inc"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=io_bank Member=Component J1 INMP621ACEZ-R7
+Added Room: Name=io_bank
+Added Room: Name=power

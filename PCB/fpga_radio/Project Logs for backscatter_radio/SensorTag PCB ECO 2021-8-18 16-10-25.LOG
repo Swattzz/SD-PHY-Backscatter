@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=PIN29 Pin=S2-1
+Removed Pin From Net: NetName=PIN29 Pin=S2-2
+Removed Pin From Net: NetName=3V3 Pin=S2-3
+Removed Pin From Net: NetName=3V3 Pin=S2-4
+Change Component Description : Designator=J1 Old Description=45Hz ~ 20kHz Digital, PDM Microphone MEMS (Silicon) 1.62V ~ 3.63V Omnidirectional (-46dB ?±2dB @ 94dB SPL) Solder Pads New Description=45Hz ~ 20kHz Digital, PDM Microphone MEMS (Silicon) 1.62V ~ 3.63V Omnidirectional (-46dB ?±2dB @ 94dB SPL) Solder Pads
+Change component parameters: Designator = "DONE1"; Footprint = "0603_LED"; UniqueID = "\NYXQCPVL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73152.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DONE2"; Footprint = "0603_LED"; UniqueID = "\GWFOFAKN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73152.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PWR1"; Footprint = "0603_LED"; UniqueID = "\XGNBNSAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2659.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2286"; VariantName = "[No Variations]"
+Added Component: Designator=S2(TL3305AF160QG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TL3305AF160QG.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL3305AF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "612-TL3305AF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=612-TL3305AF160QG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=S2-1
+Added Pin To Net: NetName=3V3 Pin=S2-2
+Added Pin To Net: NetName=PIN29 Pin=S2-3
+Added Pin To Net: NetName=PIN29 Pin=S2-4

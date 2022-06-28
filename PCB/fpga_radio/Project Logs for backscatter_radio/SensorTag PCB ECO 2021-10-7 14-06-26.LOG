@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=1V2 Pin=U3-5
+Added Pin To Net: NetName=1V2 Pin=U3-8
+Added Member To Class: ClassName=io_bank Member=Component U3 TPS715A01DRBR

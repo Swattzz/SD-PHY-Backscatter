@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=B1-1
+Added Room: Name=io_bank
+Added Room: Name=power

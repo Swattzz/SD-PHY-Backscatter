@@ -1,0 +1,359 @@
+Removed Pin From Net: NetName=VCC_3_3 Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=SMA1-1
+Removed Pin From Net: NetName=GND Pin=SMA1-1
+Removed Pin From Net: NetName=GND Pin=SMA1-1
+Removed Pin From Net: NetName=GND Pin=SMA1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=SMA1-2
+Removed Pin From Net: NetName=GND Pin=SMA2-1
+Removed Pin From Net: NetName=GND Pin=SMA2-1
+Removed Pin From Net: NetName=GND Pin=SMA2-1
+Removed Pin From Net: NetName=GND Pin=SMA2-1
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=1nF
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C7 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C9 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C11 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C13 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C15 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C17 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C19 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C21 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C23 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C25 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C27 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C29 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C31 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C34 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C36 Old Comment=Cap New Comment=10nF
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C6 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C8 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C10 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C12 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C14 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C16 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C18 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C20 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C22 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C24 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C26 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C28 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C30 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C32 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C33 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=C35 Old Comment=Cap New Comment=100nF
+Change Component Comment : Designator=LED2 Old Comment=LED New Comment=LED green
+Change Component Comment : Designator=LED1 Old Comment=LED New Comment=LED red
+Change Component Comment : Designator=U2 Old Comment=LT55534 New Comment=LT5534
+Change Component Comment : Designator=R2 Old Comment=Res New Comment=1k Ohm
+Change Component Comment : Designator=R1 Old Comment=Res New Comment=47 Ohm
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR1X12"; UniqueID = "\XWGFPUAO" ("\XWGFPUAO")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "HDR1X12"; UniqueID = "\PAXMQNQM" ("\PAXMQNQM")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3" ("P3"); Footprint = "HDR1X2"; UniqueID = "\LUKNCPTM" ("\LUKNCPTM")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4" ("P4"); Footprint = "HDR2X5"; UniqueID = "\JJVMMRUE" ("\JJVMMRUE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603"; UniqueID = "\XAFRGPNU" ("\XAFRGPNU")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Chip Res (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603"; UniqueID = "\EPUJYDML" ("\EPUJYDML")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Chip Res (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "0603"; UniqueID = "\QSGDGRLH" ("\QSGDGRLH")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0603"; UniqueID = "\FWQCJQAW" ("\FWQCJQAW")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0603"; UniqueID = "\YCICPSQJ" ("\YCICPSQJ")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0603"; UniqueID = "\RDCYNNNJ" ("\RDCYNNNJ")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0603"; UniqueID = "\EPFUMGMV" ("\EPFUMGMV")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0603"; UniqueID = "\XFUNDHOO" ("\XFUNDHOO")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0603"; UniqueID = "\APEYUMEA" ("\APEYUMEA")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0603"; UniqueID = "\QFDWYYSG" ("\QFDWYYSG")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "0603"; UniqueID = "\AVKMYGHT" ("\AVKMYGHT")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0603"; UniqueID = "\NFXLTTXG" ("\NFXLTTXG")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "0603"; UniqueID = "\QDEDORUR" ("\QDEDORUR")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0603"; UniqueID = "\AXMERDIL" ("\AXMERDIL")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "0603"; UniqueID = "\LXLHDYYS" ("\LXLHDYYS")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "0603"; UniqueID = "\SOOXFCML" ("\SOOXFCML")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "0603"; UniqueID = "\YMXFJPVR" ("\YMXFJPVR")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0603"; UniqueID = "\VSGPTFTA" ("\VSGPTFTA")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "0603"; UniqueID = "\VCYDBSXS" ("\VCYDBSXS")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "0603"; UniqueID = "\IYJPQCUG" ("\IYJPQCUG")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "0603"; UniqueID = "\DMEFWIXB" ("\DMEFWIXB")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0603"; UniqueID = "\OSAUREQD" ("\OSAUREQD")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "0603"; UniqueID = "\UOGGXFFC" ("\UOGGXFFC")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "0603"; UniqueID = "\KFQXPLVF" ("\KFQXPLVF")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "0603"; UniqueID = "\EPRUSMLA" ("\EPRUSMLA")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "0603"; UniqueID = "\HWGPKYCL" ("\HWGPKYCL")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "0603"; UniqueID = "\FREDJQLO" ("\FREDJQLO")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "0603"; UniqueID = "\KBMXCXEJ" ("\KBMXCXEJ")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "0603"; UniqueID = "\FRKMIEOI" ("\FRKMIEOI")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "0603"; UniqueID = "\JYNBSEPH" ("\JYNBSEPH")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "0603"; UniqueID = "\RFLLLBFM" ("\RFLLLBFM")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "0603"; UniqueID = "\TINMCTNX" ("\TINMCTNX")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "0603"; UniqueID = "\WWRKTWTX" ("\WWRKTWTX")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "0603"; UniqueID = "\ALJRJTJD" ("\ALJRJTJD")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "0603"; UniqueID = "\IGDTIPSS" ("\IGDTIPSS")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "0603"; UniqueID = "\IEOUCSBR" ("\IEOUCSBR")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "0603"; UniqueID = "\GSDTJVRH" ("\GSDTJVRH")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "0603"; UniqueID = "\DCWNUDSR" ("\DCWNUDSR")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Ceramic Chip Cap (TBD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "VQ100_N"; UniqueID = "\YXCJKQKQ" ("\YXCJKQKQ")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-AED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "IGLOO nano Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.actel.com/documents/IGLOO_nano_DS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Mechanical Drawings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.actel.com/documents/PckgMechDrwngs.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "IGLOO nano Documents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.actel.com/products/igloonano/docs.aspx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Actel.com Home"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.actel.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "v0.8, Jan-2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "26-Feb-2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Updated to datasheet version 0.8 Jan-2010."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "100-Pin Plastic Quad Flat Pack (VQ100)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "VQ100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ver11.2, Nov-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=power Member=Component C1 1nF
+Added Member To Class: ClassName=power Member=Component C2 100nF
+Added Member To Class: ClassName=power Member=Component C3 10nF
+Added Member To Class: ClassName=power Member=Component R1 47 Ohm
+Added Member To Class: ClassName=power Member=Component U1 adg902
+Added Member To Class: ClassName=power Member=Component U2 LT5534
+Added Member To Class: ClassName=power Member=Component U3 NCS2200A
+Added Member To Class: ClassName=power Member=Component U4 3314G-1
+Added Room: Name=io_bank
+Added Room: Name=power

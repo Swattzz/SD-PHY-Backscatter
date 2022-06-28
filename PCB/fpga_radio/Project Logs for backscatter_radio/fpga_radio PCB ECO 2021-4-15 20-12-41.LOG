@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=Battery-+$1
+Removed Pin From Net: NetName=VCC Pin=Battery-NEG
+Added Pin To Net: NetName=VCC Pin=Battery-+$1
+Added Pin To Net: NetName=GND Pin=Battery-NEG

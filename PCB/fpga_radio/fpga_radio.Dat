@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~125|Field=Footprint~String~Footprint~125|Field=Quantity~Integer~Quantity~55|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~backscatter_radio.PrjPCB|ReportField=ProjectFullPath~E:\June\JuneResearch\SDPHY\PCBboard\HitchHike\fpga_radio\backscatter_radio.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [fpga_radio.PcbDoc]|ReportField=ReportTime~18:59:35|ReportField=ReportDate~2020/8/7|ReportField=ReportDateTime~2020/8/7 18:59:35|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~54|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~fpga_radio.PcbDoc|ReportField=DataSourceFullPath~E:\June\JuneResearch\SDPHY\PCBboard\HitchHike\fpga_radio\fpga_radio.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap|Ceramic Capacitor (Surface Mount)|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36|0603|36
+2|LED||LED1, LED2|0603|2
+3|Header 12|Header, 12-Pin|P1, P2|HDR1X12|2
+4|Header 2|Header, 2-Pin|P3|HDR1X2|1
+5|Header 5X2|Header, 5-Pin, Dual row|P4|HDR2X5|1
+6|Res|Chip Resistor (Surface Mount)|R1, R2|0603|2
+7|SMA - Hole - 5 Pin|SMA - Through Hole Connector|SMA1, SMA2|SMA - Hole - 5 Pin|2
+8|adg902||U1|ADG902|1
+9|LT55534||U2|LT5534|1
+10|NCS2200A||U3|NCS2200|1
+11|3314G-1||U4|3314G-1|1
+12|AGLN250V2-VQ100|IGLOO nano Low-Power Flash 1.2 to 1.5V FPGA with Flash*Freeze, 68 User IOs, 250K System Gates, 1Kbit Flash ROM, 100-Pin TQFP, Commercial Grade|U5|VQ100_N|1
+13|TPS73615|TPS73615|U6|TPS73633|1
+14|TPS73633|TPS73633|U7|TPS73633|1
+15|ASTX_H11_20MHz||U8|ASTX_H11|1

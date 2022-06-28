@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetDONE1_A Pin=DONE1-A
+Added Pin To Net: NetName=NetDONE1_K Pin=DONE1-K
+Added Pin To Net: NetName=PIN28 Pin=DONE2-A
+Added Pin To Net: NetName=NetDONE2_K Pin=DONE2-K
+Added Pin To Net: NetName=VCC Pin=PWR1-A
+Added Pin To Net: NetName=GND Pin=PWR1-K
+Added Room: Name=io_bank
+Added Room: Name=power

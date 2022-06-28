@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~174|Field=Description~String~Description~174|Field=Designator~String~Designator~338|Field=Footprint~String~Footprint~83|Field=Quantity~Integer~Quantity~27|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~backscatter_radio.PrjPCB|ReportField=ProjectFullPath~E:\June\JuneResearch\SDPHY\PCBboard\HitchHike\fpga_radio\backscatter_radio.PrjPCB|ReportField=Title~Bill of Materials For Project [backscatter_radio.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~21:51:36|ReportField=ReportDate~2020/8/8|ReportField=ReportDateTime~2020/8/8 21:51:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~54|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/8/8|ReportField=CurrentTime~21:08:43|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\June\JuneResearch\SDPHY\PCBboard\HitchHike\fpga_radio\io_bank.SchDoc|ReportField=DocumentName~io_bank.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020/8/8|ReportField=Organization~|ReportField=ProjectName~backscatter_radio.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~backscatter_radio.PrjPCB|ReportField=DataSourceFullPath~E:\June\JuneResearch\SDPHY\PCBboard\HitchHike\fpga_radio\backscatter_radio.PrjPCB|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1nF|Ceramic Capacitor (Surface Mount)|C1|0603|1
+2|100nF|Ceramic Capacitor (Surface Mount)|C2, C4, C6, C8, C10, C12, C14, C16, C18, C20, C22, C24, C26, C28, C30, C32, C33, C35|0603|18
+3|10nF|Ceramic Capacitor (Surface Mount)|C3, C5, C7, C9, C11, C13, C15, C17, C19, C21, C23, C25, C27, C29, C31, C34, C36|0603|17
+4|LED red||LED1|0603|1
+5|LED green||LED2|0603|1
+6|Header 12|Header, 12-Pin|P1, P2|HDR1X12|2
+7|Header 2|Header, 2-Pin|P3|HDR1X2|1
+8|Header 5X2|Header, 5-Pin, Dual row|P4|HDR2X5|1
+9|47 Ohm|Chip Resistor (Surface Mount)|R1|0603|1
+10|1k Ohm|Chip Resistor (Surface Mount)|R2|0603|1
+11|SMA - Hole - 5 Pin|SMA - Through Hole Connector|SMA1, SMA2|SMA - Hole - 5 Pin|2
+12|adg902||U1|ADG902|1
+13|LT5534||U2|LT5534|1
+14|NCS2200A||U3|NCS2200|1
+15|3314G-1||U4|3314G-1|1
+16|AGLN250V2-VQ100|IGLOO nano Low-Power Flash 1.2 to 1.5V FPGA with Flash*Freeze, 68 User IOs, 250K System Gates, 1Kbit Flash ROM, 100-Pin TQFP, Commercial Grade|U5|VQ100_N|1
+17|TPS73615|TPS73615|U6|TPS73633|1
+18|TPS73633|TPS73633|U7|TPS73633|1
+19|ASTX_H11_20MHz||U8|ASTX_H11|1

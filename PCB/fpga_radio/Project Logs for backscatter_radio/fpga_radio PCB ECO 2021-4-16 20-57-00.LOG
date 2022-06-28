@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VCC Pin=Battery-+$1
+Removed Pin From Net: NetName=GND Pin=Battery-+$2
+Removed Member From Class: ClassName=io_bank Member=Battery
+Added Component: Designator=B1(3031_KEY)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.mouser.com/datasheet/2/215/031-745379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REFDES_2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Add_to_database_2021-02-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE_2"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Added Component: Designator=SWPower(SW_MLL1200S)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "450-1577-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.lt/product-detail/en/te-connectivity-alcoswitch-switches/MLL1200S/450-1577-ND/1201378?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MLL1200S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MLL1200S/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/1494234/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1437575-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=VCC_3_3 Pin=SWPower-1
+Added Pin To Net: NetName=GND Pin=SWPower-3
+Added Pin To Net: NetName=GND Pin=SWPower-G1
+Added Pin To Net: NetName=GND Pin=SWPower-G2
+Added Pin To Net: NetName=GND Pin=SWPower-G3
+Added Pin To Net: NetName=GND Pin=SWPower-G4
+Added Pin To Net: NetName=NetSWPower_2 Pin=SWPower-2
+Added Pin To Net: NetName=NetSWPower_2 Pin=U5-27
+Added Net: Name=NetSWPower_2
+Added Member To Class: ClassName=io_bank Member=Component B1 3031
+Added Member To Class: ClassName=io_bank Member=Component SWPower MLL1200S
+Added Room: Name=io_bank
+Added Room: Name=power

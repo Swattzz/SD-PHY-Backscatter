@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PIN42 Pin=J1-CLK
+Removed Pin From Net: NetName=PIN41 Pin=J1-DATA
+Removed Pin From Net: NetName=GND Pin=J1-GND@1
+Removed Pin From Net: NetName=GND Pin=J1-GND@2
+Removed Pin From Net: NetName=GND Pin=J1-GND@3
+Removed Pin From Net: NetName=GND Pin=J1-GND@4
+Removed Pin From Net: NetName=GND Pin=J1-GND@5
+Removed Pin From Net: NetName=GND Pin=J1-GND@6
+Removed Pin From Net: NetName=GND Pin=J1-GND@7
+Removed Pin From Net: NetName=GND Pin=J1-GND@8
+Removed Pin From Net: NetName=GND Pin=J1-GND@9
+Removed Pin From Net: NetName=GND Pin=J1-GND@10
+Removed Pin From Net: NetName=GND Pin=J1-GND@11
+Removed Pin From Net: NetName=PIN43 Pin=J1-SELECT
+Removed Pin From Net: NetName=3V3 Pin=J1-VDD
+Removed Member From Class: ClassName=io_bank Member=J1

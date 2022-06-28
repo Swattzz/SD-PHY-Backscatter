@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=ACC NewDesignator=AC1
+Change Component Designator: OldDesignator=HDC2080 NewDesignator=U4
+Change Component Designator: OldDesignator=MIC NewDesignator=IC1
+Added Member To Class: ClassName=io_bank Member=Component C24 0.1¦ÌF
+Added Member To Class: ClassName=io_bank Member=Component P1 Header 6

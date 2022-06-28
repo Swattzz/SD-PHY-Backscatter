@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=3V3 Pin=P2-1
+Change Component Designator: OldDesignator=Mic NewDesignator=J1
+Change Component Designator: OldDesignator=T&H NewDesignator=U4
+Change Component Description : Designator=J1 Old Description=45Hz ~ 20kHz Digital, PDM Microphone MEMS (Silicon) 1.62V ~ 3.63V Omnidirectional (-46dB ?±2dB @ 94dB SPL) Solder Pads New Description=45Hz ~ 20kHz Digital, PDM Microphone MEMS (Silicon) 1.62V ~ 3.63V Omnidirectional (-46dB ?±2dB @ 94dB SPL) Solder Pads
+Change component parameters: Designator = "DONE1"; Footprint = "0603_LED"; UniqueID = "\NYXQCPVL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73152.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DONE2"; Footprint = "0603_LED"; UniqueID = "\GWFOFAKN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73152.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PWR1"; Footprint = "0603_LED"; UniqueID = "\XGNBNSAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2659.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2286"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_BAT Pin=P2-1
+Added Member To Class: ClassName=power Member=Component S2 TL3305AF160QG
+Added Room: Name=io_bank
+Added Room: Name=power

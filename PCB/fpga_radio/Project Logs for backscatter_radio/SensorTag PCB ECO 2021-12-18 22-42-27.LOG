@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PIN46 Pin=U8-1
+Removed Pin From Net: NetName=3V3 Pin=U8-2
+Removed Pin From Net: NetName=NetC90_1 Pin=U8-4
+Removed Pin From Net: NetName=GND Pin=U8-5
+Removed Member From Class: ClassName=power Member=U8
+Added Component: Designator=IC?(SOT95P275X110-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NCS2200-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NCS2200SN2T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_3 Pin=R90-2
+Added Pin To Net: NetName=NetIC?_3 Pin=U7-3
+Added Net: Name=NetIC?_3
+Added Member To Class: ClassName=io_bank Member=Component C24 0.1¦ÌF

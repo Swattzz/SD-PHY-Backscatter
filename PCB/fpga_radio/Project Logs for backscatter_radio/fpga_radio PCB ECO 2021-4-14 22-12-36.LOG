@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetU10_2 Pin=U10-2
+Added Net: Name=NetU10_2
+Added Room: Name=io_bank
+Added Room: Name=power

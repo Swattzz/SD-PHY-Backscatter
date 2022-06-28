@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PIN19 Pin=AC1-4
+Added Pin To Net: NetName=PIN20 Pin=AC1-6
+Added Pin To Net: NetName=PIN21 Pin=AC1-7
+Added Pin To Net: NetName=PIN22 Pin=AC1-8
+Added Pin To Net: NetName=PIN24 Pin=AC1-9
+Added Pin To Net: NetName=PIN23 Pin=AC1-11
+Added Member To Class: ClassName=io_bank Member=Component C24 0.1¦ÌF

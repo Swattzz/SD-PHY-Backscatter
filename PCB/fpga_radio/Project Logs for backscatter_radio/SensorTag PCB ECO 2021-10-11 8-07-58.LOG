@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetR91_2 Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=NetC90_1 Pin=U8-3
+Removed Pin From Net: NetName=PIN46 Pin=U8-4
+Removed Pin From Net: NetName=3V3 Pin=U8-5
+Change Component Footprint: Designator=U8 Old Footprint=SOT65P210X110-5N New Footprint=NCS2200
+Change Component Comment : Designator=U8 Old Comment=LMV331M7 New Comment=NCS2200A
+Change component parameters: Designator = "DONE1"; Footprint = "0603_LED"; UniqueID = "\NYXQCPVL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73152.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DONE2"; Footprint = "0603_LED"; UniqueID = "\GWFOFAKN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73152.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PWR1"; Footprint = "0603_LED"; UniqueID = "\XGNBNSAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2659.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2286"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8"; Footprint = "NCS2200"; UniqueID = "\KVPALKZA"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=PIN46 Pin=U8-1
+Added Pin To Net: NetName=3V3 Pin=U8-2
+Added Pin To Net: NetName=NetR91_2 Pin=U8-3
+Added Pin To Net: NetName=NetC90_1 Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-5

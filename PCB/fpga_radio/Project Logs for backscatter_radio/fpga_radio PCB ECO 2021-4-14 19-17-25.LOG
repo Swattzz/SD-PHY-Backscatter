@@ -1,0 +1,40 @@
+Added Component: Designator=U9(LGA_CC-16-3_ADI)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADXL344ACCZ-RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Analog_2015-12-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Added Component: Designator=U10(BP2U+)
+Added Component: Designator=U11(DMB0006A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "HDC2080DMBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3_3 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U9-13
+Added Pin To Net: NetName=GND Pin=U9-16
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=NetC1_2 Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=VCC_3_3 Pin=U11-5
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U10-8
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU9_14 Pin=U9-14
+Added Pin To Net: NetName=NetU9_14 Pin=U9-15
+Added Net: Name=NetU9_14
+Added Member To Class: ClassName=io_bank Member=Component U9 ADXL344ACCZ-RL
+Added Member To Class: ClassName=power Member=Component U10 BP2U+
+Added Member To Class: ClassName=io_bank Member=Component U11 HDC2080DMBR
+Added Room: Name=io_bank
+Added Room: Name=power
